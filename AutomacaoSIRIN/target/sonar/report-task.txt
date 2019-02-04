@@ -1,0 +1,7 @@
+organization=wilker93-github
+projectKey=wilker93_teste
+serverUrl=https://sonarcloud.io
+serverVersion=7.6.0.21360
+dashboardUrl=https://sonarcloud.io/dashboard?id=wilker93_teste
+ceTaskId=AWhiZIpjPs5SS9b7ub7e
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWhiZIpjPs5SS9b7ub7e
